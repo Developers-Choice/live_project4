@@ -119,12 +119,14 @@ body {
 
 .about {
     background-color: #722300;
+    
 }
 
 .contact, .about{
     min-height: 300px;
     padding: 32px;
     color: azure;
+    width: 100%
 }
 
 
@@ -244,5 +246,6 @@ footer{
     .contact, .about {
         padding: 10px; /* Adjusted padding */
         min-height: auto; /* Removed min-height */
+        
     }
 }
